@@ -1,6 +1,6 @@
 ##
 ##Author: elioudakis
-##A.M.:2018030020
+##A.M.:
 ##email: elioudakis@isc.tuc.gr
 ##
 ###################################################
