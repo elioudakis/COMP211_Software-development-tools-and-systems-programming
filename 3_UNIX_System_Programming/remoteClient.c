@@ -1,8 +1,6 @@
 /* 
  **  remoteClient.c
  **  Author: elioudakis
- **  A.M.: 2018030020
- **  LAB21142447
  **  elioudakis@isc.tuc.gr
  */
 #include <stdio.h>
