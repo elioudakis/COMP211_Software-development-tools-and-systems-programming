@@ -1,5 +1,5 @@
 #!/bin/bash
-#Author:elioudakis, A.M.2018030020
+#Author:elioudakis, A.M.
 #email: elioudakis@isc.tuc.gr
 
 arguments=("$@")
